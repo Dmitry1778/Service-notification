@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/internal/repo/employer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/token_generator" vcs="Git" />
+  </component>
+</project>
